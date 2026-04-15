@@ -2,7 +2,7 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-0346
+Student ID: 2A2026000346
 Name: Vu Quang Phuc
 
 Nhiem vu:
